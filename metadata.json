@@ -1,0 +1,8 @@
+{
+  "name": "Pablo Picasso : Un génie de l'art",
+  "description": "Présentation scolaire interactive et éducative en 10 diapositives sur la vie, les périodes artistiques, les œuvres célèbres et l'héritage de Pablo Picasso.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
